@@ -1,0 +1,13 @@
+DEF5678;Titan;Maria Souza;CARRO
+GHI9012;Corolla;Pedro Lima;CARRO
+JKL3456;Fazer;Ana Costa;MOTO
+MNO7890;HB20;Carlos Mendes;CARRO
+PQR1234;Biz;Fernanda Rocha;MOTO
+STU5678;Onix;Rafael Oliveira;CARRO
+VWX9012;CB300;Juliana Ferreira;MOTO
+YZA3456;Gol;Bruno Alves;CARRO
+BCD7890;Twister;Camila Nunes;CARRO
+EFG1234;Sandero;Diego Martins;CARRO
+HIJ5678;Lander;Tatiane Ramos;CARRO
+KLM9012;Ka;Rodrigo Carvalho;CARRO
+NOP3456;XRE300;Sabrina Dias;CARRO

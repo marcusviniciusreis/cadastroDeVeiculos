@@ -4,8 +4,8 @@ import exceptions.LimiteAtingidoException;
 
 import java.util.ArrayList;
 public class Estacionamento {
-    private final int maxCarros = 20; // 20 carros no estacionamento condominial
-    private final int maxMotos = 10; // e 10 motos
+    private final int maxCarros = 10; // 20 carros no estacionamento condominial
+    private final int maxMotos = 5; // e 10 motos
     private final int maxVeiculos = maxCarros + maxMotos;
     private ArrayList<Veiculo> veiculos;
 
